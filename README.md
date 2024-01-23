@@ -4,4 +4,4 @@ To start the React app, -> open a new Terminal
                         ->npm run dev
                         -> open a new Terminal 
                         -> cd server 
-                        ->nmp start
+                        ->npm start
