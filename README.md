@@ -12,4 +12,4 @@ To start the React app, -> open a new Terminal
 
 
 
-Link to Video of Project(Google Drive) --->  https://drive.google.com/drive/folders/1Slg6KTAH3IG5OTWj-uV71nzVDtY1dVAt?usp=drive_link
+Link to the Project Video(Google Drive) --->  https://drive.google.com/drive/folders/1Slg6KTAH3IG5OTWj-uV71nzVDtY1dVAt?usp=drive_link
